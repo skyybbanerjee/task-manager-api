@@ -1,3 +1,10 @@
+```shell
+…or push an existing repository from the command line
+git remote add origin https://github.com/skyybbanerjee/task-manager-api.git
+git branch -M main
+git push -u origin main
+```
+
 Let's break down the various **status codes** and **mongoose/mongodb functions** used in your code in detail:
 
 ### **HTTP Status Codes**
